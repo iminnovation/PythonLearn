@@ -1,2 +1,2 @@
 # PythonLearn
-This repo contains basic paython programs
+This repo contains basic python programs.
