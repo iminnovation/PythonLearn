@@ -6,3 +6,5 @@ FirstProgram.py
 PrimeNumber.py
 LargeAmongThreeNum.py
 Factorial.py
+SystemInfo.py
+Palindrome.py
