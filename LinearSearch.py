@@ -1,4 +1,5 @@
 #LinearSearch
+# Search specified number in list.
 
 list_of_elements = [4, 2, 8, 9, 3, 7]
 

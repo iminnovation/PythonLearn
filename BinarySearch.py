@@ -1,4 +1,4 @@
-#Binary Search ,
+#Binary Search
 # Input Sorted List of elements
 # Position index starts from 0.
 
@@ -17,7 +17,7 @@ def binary_sort(sortedlist, n, x):
 
     return -1
 
-
+#User Input
 n = input("Enter the size of the sotred list: ")
 
 sortedlist = []
