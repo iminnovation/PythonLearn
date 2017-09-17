@@ -9,3 +9,4 @@ Factorial.py
 SystemInfo.py
 Palindrome.py
 LinearSearch.py
+BinarySearch.py
