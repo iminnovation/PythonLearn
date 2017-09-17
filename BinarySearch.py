@@ -1,6 +1,7 @@
 #Binary Search
 # Input Sorted List of elements
 # Position index starts from 0.
+#Complexity : O(logn)
 
 def binary_sort(sortedlist, n, x):
     start = 0
