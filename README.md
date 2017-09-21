@@ -1,5 +1,5 @@
 # PythonLearn
-This repo contains basic python programs:
+This repo contains basic python programs::
 
 Hello.py
 FirstProgram.py
@@ -11,4 +11,3 @@ Palindrome.py
 LinearSearch.py
 BinarySearch.py
 MergeSort.py
-
