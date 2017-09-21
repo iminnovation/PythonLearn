@@ -6,7 +6,7 @@ fname= "C:/Users/PycharmProjects/PythonLearn/testData/test.xlsx"
 xl_workbook = xlrd.open_workbook(fname)
 
 # List sheet names, and pull a sheet by name
-#
+
 sheet_names = xl_workbook.sheet_names()
 print('Sheet Names', sheet_names)
 
@@ -14,17 +14,17 @@ xl_sheet = xl_workbook.sheet_by_name(sheet_names[0])
 
 # Or grab the first sheet by index
 #  (sheets are zero-indexed)
-#
+
 xl_sheet = xl_workbook.sheet_by_index(0)
 print ('Sheet name: %s' % xl_sheet.name)
 
 # Pull the first row by index
 #  (rows/columns are also zero-indexed)
-#
+
 row = xl_sheet.row(0)  # 1st row
 
 # Print 1st row values and types
-#
+
 from xlrd.sheet import ctype_text
 
 print('(Column #) type:value')
