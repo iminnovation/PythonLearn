@@ -13,7 +13,7 @@ print('Sheet Names', sheet_names)
 
 xl_sheet = xl_workbook.sheet_by_name(sheet_names[0])
 
-# Or grab the first sheet by index
+# first Sheet by index
 #  (sheets are zero-indexed)
 
 xl_sheet = xl_workbook.sheet_by_index(0)
